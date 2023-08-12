@@ -1,0 +1,6 @@
+header p{
+    background-color: rgba(9, 167, 164, 0.471);
+}
+main>p{background-color: rgb(237, 11, 11);}
+[target=_blank]{background-color: rgb(25, 239, 43);}
+h1{font-family:"Sassy Frass", cursive;}
